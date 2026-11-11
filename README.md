@@ -1,6 +1,6 @@
 # Quadle
 Spritual successor to Fufblox i guess.
 
+*Feel free to fork this*
 
-# warning
-this shit is garbage + people can exploit in it easly so be careful who you play with
+**RECOMMENDED TO PLAY ONLY WITH FRIENDS**
